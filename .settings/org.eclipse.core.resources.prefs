@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/bme/mace/gui/MainFrame.java=GBK
+encoding//src/main/java/bme/mace/logicdomain/Evaluation.java=GBK
+encoding//src/main/java/bme/mace/logicdomain/ProposedAlgorithm.java=GBK
+encoding//src/main/java/bme/mace/logicdomain/Smote_SVM.java=GBK
+encoding//src/main/java/bme/mace/sample/GetTotalSample.java=GBK
+encoding//src/main/java/bme/mace/sample/PrepareForSample.java=GBK
